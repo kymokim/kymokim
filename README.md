@@ -1,6 +1,6 @@
 ## Kyungmo Kim
 
-Java / Spring Boot 기반 백엔드 개발자입니다.
+Java / Spring Boot 기반 백엔드 개발자입니다.  
 주류 특화 O2O 플랫폼 **한잔할까**를 설계하고 운영합니다.
 
 ---
