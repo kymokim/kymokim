@@ -1,9 +1,18 @@
 ## Kyungmo Kim
 
-**Co-CEO @ SPIRIT · Backend Developer**
+Backend Developer focused on Java, Spring Boot, and AWS.
 
-Java / Spring Boot 기반 백엔드 개발자.
-성인 전용 O2O 플랫폼 **한잔할까**를 설계·운영합니다.
+SPIRIT에서 실서비스 백엔드를 설계하고 운영합니다.
+API 설계, 데이터 모델링, 배포/운영, 서비스 안정화에 관심이 있습니다.
+
+---
+
+### Featured Work
+
+- [foodpin-backend](https://github.com/barowoori/foodpin-backend)
+  O2O 서비스 백엔드 프로젝트
+- [all-knu-auth](https://github.com/1sTeam/all-knu-auth)
+  ALL KNU 회원/관리자 인증·인가 서비스
 
 ---
 
@@ -11,7 +20,7 @@ Java / Spring Boot 기반 백엔드 개발자.
 
 **한잔할까** · iOS / Android v1.5.4
 
-고물가 시대를 위한 합리적 주류 소비 O2O 플랫폼
+합리적인 주류 소비를 위한 O2O 플랫폼
 `회원 200명+` `매장 1,000곳+`
 
 ---
@@ -28,12 +37,10 @@ Java / Spring Boot 기반 백엔드 개발자.
 
 ### Certification
 
-AWS Certified Cloud Practitioner
+- AWS Certified Cloud Practitioner
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kymokim&show_icons=true&theme=default&hide_border=true&count_private=true&rank_icon=github)](https://github.com/kymokim)
+### Contact
 
----
-
-📫 kymokim@gmail.com
+- kymokim@gmail.com
