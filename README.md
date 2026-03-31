@@ -15,9 +15,9 @@ Java / Spring Boot 기반 백엔드 개발자입니다.
 
 ### Projects
 
-- `한잔할까` - 주류 특화 O2O 서비스 백엔드(메인)
+- [한잔할까](https://github.com/kymokim/spirit) - 주류 특화 O2O 서비스 백엔드
 - [푸드핀](https://github.com/barowoori/foodpin-backend) - 푸드트럭 매칭 서비스 백엔드
-- `Desktop Dictionary` - 교내 IT 지원 서비스 백엔드
+- [Desktop Dictionary](https://github.com/kymokim/desktop-dictionary) - 교내 IT 지원 서비스 백엔드
 
 ---
 
