@@ -15,9 +15,9 @@ Java / Spring Boot 기반 백엔드 개발자입니다.
 
 ### Projects
 
-- `한잔할까 (SPIRIT)` - 실서비스 O2O 플랫폼 백엔드
-- [푸드핀 (foodpin-backend)](https://github.com/barowoori/foodpin-backend) - O2O 서비스 백엔드
-- `Desktop Dictionary` - 졸업작품 백엔드 프로젝트
+- `한잔할까` - 주류 특화 O2O 서비스 백엔드(메인)
+- [푸드핀](https://github.com/barowoori/foodpin-backend) - 푸드트럭 매칭 서비스 백엔드
+- `Desktop Dictionary` - 교내 IT 지원 서비스 백엔드
 
 ---
 
