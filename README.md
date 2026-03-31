@@ -1,27 +1,23 @@
 ## Kyungmo Kim
 
-Backend Developer focused on Java, Spring Boot, and AWS.
-
-SPIRIT에서 실서비스 백엔드를 설계하고 운영합니다.
-API 설계, 데이터 모델링, 배포/운영, 서비스 안정화에 관심이 있습니다.
+Java / Spring Boot 기반 백엔드 개발자입니다.
+실서비스를 직접 설계하고 운영하며, API 설계, 데이터 모델링, 배포, 운영 안정화에 관심이 있습니다.
 
 ---
 
-### Featured Work
+### About
 
-- [foodpin-backend](https://github.com/barowoori/foodpin-backend)
-  O2O 서비스 백엔드 프로젝트
-- [all-knu-auth](https://github.com/1sTeam/all-knu-auth)
-  ALL KNU 회원/관리자 인증·인가 서비스
+- Co-CEO at SPIRIT
+- AWS Certified Cloud Practitioner
+- Building and operating `한잔할까`
 
 ---
 
-### Currently Building
+### Selected Projects
 
-**한잔할까** · iOS / Android v1.5.4
-
-합리적인 주류 소비를 위한 O2O 플랫폼
-`회원 200명+` `매장 1,000곳+`
+- `한잔할까 (SPIRIT)` - 실서비스 O2O 플랫폼 백엔드
+- [foodpin-backend](https://github.com/barowoori/foodpin-backend) - O2O 서비스 백엔드
+- `Desktop Dictionary` - 졸업작품 백엔드 프로젝트
 
 ---
 
@@ -32,12 +28,6 @@ API 설계, 데이터 모델링, 배포/운영, 서비스 안정화에 관심이
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-
----
-
-### Certification
-
-- AWS Certified Cloud Practitioner
 
 ---
 
